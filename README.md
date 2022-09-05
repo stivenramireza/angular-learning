@@ -1,4 +1,4 @@
-# Angular Fundamentals
+# Angular Learning
 
 Fundamental concepts and exercises about Angular.
 
